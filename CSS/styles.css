@@ -1,0 +1,33 @@
+body {
+    color: rgb(161, 154, 167);
+    font-family: 'Baloo Thambi 2', cursive;
+
+    }
+
+.navbar {
+  font-family: 'Baloo Thambi 2', cursive;
+  color: rgb(161, 154, 167);
+}
+
+p {
+  float: right;
+  margin-top: 35px;
+  margin-right: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+img {
+  border-radius: 50px;
+  padding-left: 6px;
+
+  }
+
+  footer {
+    margin-top: 100px;
+    text-align: center;
+  }
+
+
